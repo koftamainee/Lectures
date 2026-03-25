@@ -13,12 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Формула Байеса.md",
+                "file": "Измеримые функции и случайные величины.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Измеримые функции и случайные величины"
+            }
+          },
+          {
+            "id": "b8928623816d75b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгебра событий.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Формула Байеса"
+              "title": "Алгебра событий"
+            }
+          },
+          {
+            "id": "e8b17f13b91a74cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сигма-алгебра.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сигма-алгебра"
+            }
+          },
+          {
+            "id": "fed75a98bb27527c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вероятностная мера.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вероятностная мера"
             }
           }
         ]
@@ -94,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Измеримые функции и случайные величины.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Измеримые функции и случайные величины"
             }
           },
           {
@@ -113,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Измеримые функции и случайные величины.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Измеримые функции и случайные величины"
             }
           },
           {
@@ -165,7 +207,8 @@
               "title": "Outline of Welcome"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,19 +228,20 @@
   },
   "active": "a00c55ee53817570",
   "lastOpenFiles": [
-    "Формула полной вероятности.md",
-    "Лекция 3 — Условная вероятность, независимость, формула Байеса.md",
     "Лекция 2 — Измеримые функции, распределения, объединение событий.md",
-    "Условная вероятность.md",
+    "Вероятностная мера.md",
     "Вероятность объединения событий.md",
     "Дискретные распределения.md",
-    "Лекция 1 — Теория вероятностей. Основы.md",
-    "Измеримые функции и случайные величины.md",
-    "Сигма-алгебра.md",
-    "Алгебра событий.md",
-    "Вероятностная мера.md",
-    "пространство элементарных исходов.md",
+    "Формула полной вероятности.md",
     "Формула Байеса.md",
+    "Условная вероятность.md",
+    "Сигма-алгебра.md",
+    "Измеримые функции и случайные величины.md",
+    "Лекция 1 — Теория вероятностей. Основы.md",
+    "Алгебра событий.md",
+    "Лекция 3 — Условная вероятность, независимость, формула Байеса.md",
+    "Untitled.canvas",
+    "пространство элементарных исходов.md",
     "Untitled.md",
     "Welcome.md"
   ]
